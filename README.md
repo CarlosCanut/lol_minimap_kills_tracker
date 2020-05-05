@@ -1,1 +1,1 @@
-lol_minimap_position_tracker
+lol_minimap_kills_tracker
